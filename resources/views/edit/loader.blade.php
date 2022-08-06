@@ -124,7 +124,6 @@
                                         <label for="text">تصنيف المعدة</label>
                                         <select name="equipment_type" id="equipment_type" class="form-control form-control-lg">
                                             <option disable selected>حدد تصنيف المعدة</option>
-                                                <option value="قلاب">قلاب</option>
                                                 <option value="لودر">لودر</option>
                                                 <option value="جرار">سير</option>
                                                 <option value="حفار">حفار</option>
